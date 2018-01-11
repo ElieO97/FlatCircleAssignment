@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="hello">Hello World, MySpinner!</string>
+    <string name="app_name">STAR WARS BROWSER</string>
+    <string-array name="NewEnglandStates">
+        <item>Maine</item>
+        <item>New Hampshire</item>
+        <item>Vermont</item>
+        <item>Massachusetts</item>
+        <item>Rhode Island</item>
+        <item>Connecticut</item>
+    </string-array>
+    <string name="spinner_prompt">Pick A State</string>
+    <string name="title_activity_second_sreen">SecondSreen</string>
+</resources>

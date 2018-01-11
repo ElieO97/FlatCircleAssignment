@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/dummy"
+
+        android:title="Do Something"/>
+
+    <item android:id="@+id/anotherdummy"
+
+        android:title="Do Something Else"/>
+
+
+    <item android:id="@+id/close"
+
+        android:title="close"/>
+</menu>
